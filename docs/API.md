@@ -10,3 +10,4 @@
 
 ## Multiply Divide
 :::simplemathspy.multiplydivide.multiplydivide
+::: simplemathspy.root_numbers.root
